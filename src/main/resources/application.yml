@@ -19,7 +19,7 @@ spring:
 
 logging:
   level:
-    me.silvernine: DEBUG
+    me.study.jwt: DEBUG
 
 jwt:
   header: Authorization
